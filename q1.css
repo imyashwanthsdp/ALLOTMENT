@@ -1,0 +1,12 @@
+.table{
+    position:absolute;
+    top: 10%;
+    left: 30%;
+    overflow:scroll;
+    justify-content: center;
+}
+
+.mm{
+    justify-content:center;
+}
+
